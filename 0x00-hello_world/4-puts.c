@@ -2,20 +2,17 @@
 
 /**
  *
- *  * main - Entry point
+ *  * main - print the string in the function
  *
  *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
-
-int main(void)
-
+ *Description: using the main function
+*this program prints "programming is like a multilingual puzzle
+*Return: 0
+ */
+ int main(void)
 {
 
 		puts("\"Programming is like building a multilingual puzzle");
 
 			return (0);
-
 }
